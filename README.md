@@ -70,7 +70,7 @@ The goal is understanding and independent problem-solving—not merely finishing
 
 ## Current Progress
 
-Tutorials **Day 1–10** are available. Additional tutorials will be added progressively according to the syllabus.
+Tutorials **Day 1–20** are available. Additional tutorials will be added progressively according to the syllabus.
 
 ## Topics After This Course
 
