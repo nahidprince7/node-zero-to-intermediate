@@ -1,6 +1,6 @@
 # Node.js Backend Syllabus — JavaScript to a Deployed Blog API
 
-> Location: `/home/nahid/Projects/Learning/app` — tutorials live in `Tutorials/`.
+> Location: `/home/nahid/Projects/Learning/js bootcamp` — tutorials live in `tutorials/`.
 
 ## Goal
 
@@ -328,7 +328,7 @@ The next tutorial is not generated until the current one is reviewed, or you ask
 
 ## Progress Tracking
 
-Keep a `Tutorials/progress.md` file. One line per day:
+Keep a `tutorials/progress.md` file. One line per day:
 
 ```
 Day 12 — 2026-09-05 — done — reduce still fuzzy, redo exercise 3
