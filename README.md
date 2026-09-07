@@ -4,7 +4,7 @@ A structured, hands-on backend development curriculum that starts with JavaScrip
 
 The course contains **110 lessons across 22 planned weeks**, based on one focused hour per study day. Every concept is explained before it is applied, with examples, exercises, review questions, and project milestones.
 
-## What You Will Learn
+## What You Will Learn Here
 
 - Modern JavaScript and asynchronous programming
 - TypeScript fundamentals and developer tooling
@@ -47,15 +47,15 @@ The running project is a production-minded blog API featuring:
 ```text
 .
 ├── README.md
-├── Tutorials/
+├── tutorials/
 │   ├── syllabus.md
 │   └── day-XX-*.md
 └── practice/
     └── day-XX/
 ```
 
-- [`Tutorials/syllabus.md`](Tutorials/syllabus.md) contains the complete roadmap.
-- `Tutorials/day-XX-*.md` contains each step-by-step lesson.
+- [`tutorials/syllabus.md`](tutorials/syllabus.md) contains the complete roadmap.
+- `tutorials/day-XX-*.md` contains each step-by-step lesson.
 - `practice/day-XX/` contains the learner's code and exercises.
 
 ## How to Study
@@ -70,7 +70,7 @@ The goal is understanding and independent problem-solving—not merely finishing
 
 ## Current Progress
 
-Tutorials **Day 1–20** are available. Additional tutorials will be added progressively according to the syllabus.
+All tutorials from **Day 1–110** are available. The final phase completes testing, hardening, Docker, CI/CD, deployment, documentation, and the final knowledge check.
 
 ## Topics After This Course
 
