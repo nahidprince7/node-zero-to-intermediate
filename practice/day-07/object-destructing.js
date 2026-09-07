@@ -8,6 +8,7 @@ const user = {
 const {name,role} = user;
 
 console.log(name);
+
 console.log(role);
 
 // rename and default
@@ -38,7 +39,9 @@ const {
 // function parameter destructruing
 
 function printUser ({name, role="reader"}){
+
     console.log(`${name} is a ${role}.`);
+    
 }
 
 printUser(user);
