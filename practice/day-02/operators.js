@@ -56,7 +56,9 @@ const hasCorrectedPassword = true ;
 const isBlocked = false;
 
 console.log(hasAccount && hasCorrectedPassword); // true
+
 console.log(hasAccount || hasCorrectedPassword); // true
+
 console.log(!isBlocked); // true
 
 
