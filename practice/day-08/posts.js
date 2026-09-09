@@ -69,3 +69,7 @@ const requestedId = 3;
 const froundPost = posts.find((post) => post.id === requestedId);
 console.log("requested post",froundPost);
 
+
+const missingPost = posts.find((post) => post.id === 5);
+console.log("missing post", missingPost); // undefined
+
