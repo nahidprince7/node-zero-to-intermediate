@@ -73,3 +73,12 @@ console.log("requested post",froundPost);
 const missingPost = posts.find((post) => post.id === 5);
 console.log("missing post", missingPost); // undefined
 
+if (missingPost) {
+  console.log("Post found:", missingPost);
+} else {
+  console.log("Post not found.");
+}
+
+
+
+
