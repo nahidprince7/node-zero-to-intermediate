@@ -80,5 +80,23 @@ if (missingPost) {
 }
 
 
+//test with some and every
+
+const hasDraft = posts.some((post)=> post.status === "draft");
+const hasVeryPopularPost = posts.some((post)=> post.views >= 1000);
+
+console.log(hasDraft);
+console.log(hasVeryPopularPost);
+
+const allHaveTitles = posts.every((post)=> post.title.length >0 );
+const allArePublished = posts.every(
+  (post) => post.status === "published",
+);
+
+console.log(allHaveTitles);
+console.log(allArePublished);
+
+
+
 
 
